@@ -8,4 +8,4 @@ The Data used is stored in a Mysql DataBase.
 We Used Redis Server To Handle The Cookies.
 
 # More Info
-Check the video to see the full tutorial.
+Check the code source to get more information.
